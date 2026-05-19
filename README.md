@@ -115,7 +115,7 @@ daily: Learning something new 📚
 
 | 🔥 Flagship | What It Does | Status |
 |:---:|:---|:---:|
-| 🧠 **[Aria-MemoryCore](https://github.com/hasifvev/Aria-MemoryCore)** | AI companion with memory, personality, and the audacity to disagree with me | ![Active](https://img.shields.io/badge/-%E2%9C%A8%20ACTIVE-ff0080?style=flat-square&labelColor=0d1117) |
+| 🧠 **Aria-MemoryCore** *(private)* | AI companion with memory, personality, and the audacity to disagree with me | ![Active](https://img.shields.io/badge/-%E2%9C%A8%20ACTIVE-ff0080?style=flat-square&labelColor=0d1117) |
 | 🎨 **ChromaMe AI** | Personal color analysis built for Malaysian women — see yourself in your colors | ![Building](https://img.shields.io/badge/-%F0%9F%94%A8%20BUILDING-ff4500?style=flat-square&labelColor=0d1117) |
 | 🌱 **More ideas brewing...** | Always got something cooking in the lab | ![Soon](https://img.shields.io/badge/-%F0%9F%92%A1%20SOON-ffd700?style=flat-square&labelColor=0d1117) |
 
@@ -187,10 +187,6 @@ daily: Learning something new 📚
 <div align="center">
   <a href="https://github.com/hasifvev">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=ffd700" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/hasifvev/Aria-MemoryCore">
-    <img src="https://img.shields.io/badge/Aria-0d1117?style=for-the-badge&amp;logo=anthropic&amp;logoColor=ff0080" alt="Aria" />
   </a>
   &nbsp;
   <a href="mailto:hasif@example.com">
