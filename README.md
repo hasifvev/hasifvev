@@ -15,6 +15,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF5E00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%94%A5+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%E2%9A%A1+Always+running+on+enthusiast+mode.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
 </p>
 
+<!-- 🧬 CODE-BLOCK MANIFESTO — Signature move -->
+<div align="center">
+
+```python
+def hasif():
+    while alive:
+        learn(curiously)
+        build(fearlessly)
+        ship(honestly)
+        if failed:
+            learn_more()
+        burn_brighter()
+```
+
+</div>
+
 <!-- 🔥 PROFILE BADGES — On-fire enthusiast palette -->
 <p align="center">
   <a href="https://github.com/hasifvev?tab=followers">
@@ -40,7 +56,12 @@
 
 ## 🧬 Who Am I?
 
-<img align="right" src="https://raw.githubusercontent.com/hasifvev/hasifvev/master/assets/profile.jpg" width="130" style="border-radius: 12px;" alt="Hasif"/>
+<div align="right">
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_RIGHT_NOW-BUILDING_ARIA-FF5E00?style=for-the-badge&labelColor=0d1117" alt="Right now"/><br/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_FOCUS-AI_COMPANIONS-D00000?style=for-the-badge&labelColor=0d1117" alt="Focus"/><br/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A_LEARNING-AGENTIC_PATTERNS-FFC300?style=for-the-badge&labelColor=0d1117" alt="Learning"/><br/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%99_MOOD-LATE_NIGHT_FLOW-A855F7?style=for-the-badge&labelColor=0d1117" alt="Mood"/>
+</div>
 
 ```yaml
 name: Hasif
@@ -57,6 +78,11 @@ daily: Learning something new 📚
 - 🎨 Working on **ChromaMe AI** — color analysis app
 - 📚 Learning new tech every single day
 - 🚀 Shipping things, breaking things, growing
+
+**📚 Currently Learning:**
+- 🤖 Agentic AI design patterns and tool-calling architectures
+- 🎨 Color theory for South Asian and Southeast Asian skin tones
+- 📖 *Antifragile* (Taleb) · *The Pragmatic Programmer* (Hunt & Thomas)
 
 </td>
 <td width="45%" valign="top">
@@ -176,6 +202,44 @@ daily: Learning something new 📚
 | 🔥 | Always running on enthusiast mode |
 
 </div>
+
+<br/>
+
+<!-- 📜 COLLAPSIBLE DEEP-DIVE — For the curious -->
+<details>
+<summary><b>📜 More about me — click to dive deeper</b></summary>
+
+<br/>
+
+### 🎯 The Mission
+
+I'm building tools that **respect their users**. Not chatbots that flatter you, not apps that mine your attention — software that has *opinions*, that disagrees when you're wrong, that grows alongside you. Aria is the prototype. ChromaMe is proof the same philosophy works for visual design.
+
+### 🛠️ How I Actually Work
+
+- I **think out loud** — show reasoning, doubts, "wait, actually..." moments
+- I **build in the open** — even when private, the architecture is documented
+- I **ship rough first** — polish comes from iteration, not from waiting
+- I **disagree respectfully** — bad takes get owned, not buried
+- I **work best at night** — the Late Night Architect mode is real
+
+### 🌏 Why Malaysia Matters
+
+Most AI is trained on Western contexts. ChromaMe AI exists because color analysis tools assume European skin tones. Aria speaks English — but her warmth is Malaysian. Localization isn't a feature, it's the foundation.
+
+### 📐 The Stack I Reach For
+
+- **Backend**: Python (FastAPI), TypeScript (Node)
+- **Frontend**: React, Next.js, Tailwind, shadcn/ui
+- **Data**: Supabase, Postgres, Vector DBs (Chroma, Qdrant)
+- **AI**: Claude (Anthropic), OpenAI, Gemini, local models via Ollama
+- **Infra**: Vercel, Cloudflare, Docker
+
+### 🎵 The Vibe Check
+
+> *Code flows better with music on. Best ideas come at night. The conditions come from within.*
+
+</details>
 
 <br/>
 
