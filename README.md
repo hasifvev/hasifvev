@@ -87,10 +87,17 @@ daily: Learning something new 📚
 </td>
 <td width="45%" valign="top">
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasifvev&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;margin-w=10&amp;margin-h=10" width="100%"/>
+
+![Builder](https://img.shields.io/badge/-%F0%9F%94%A8_BUILDER-FF5E00?style=for-the-badge&labelColor=0d1117)
+![Learner](https://img.shields.io/badge/-%F0%9F%93%9A_LEARNER-FFC300?style=for-the-badge&labelColor=0d1117)
+![Shipper](https://img.shields.io/badge/-%F0%9F%9A%80_SHIPPER-D00000?style=for-the-badge&labelColor=0d1117)
+![Storyteller](https://img.shields.io/badge/-%E2%9C%A8_STORYTELLER-A855F7?style=for-the-badge&labelColor=0d1117)
+![Curious](https://img.shields.io/badge/-%F0%9F%A7%A0_CURIOUS-00d4aa?style=for-the-badge&labelColor=0d1117)
+![Malaysian](https://img.shields.io/badge/-%F0%9F%87%B2%F0%9F%87%BE_MALAYSIAN-FF8C00?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 <br/>
