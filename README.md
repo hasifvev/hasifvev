@@ -132,18 +132,27 @@ daily: Learning something new 📚
 <!-- 🔥 FIRE GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,33:ff4500,66:ff8c00,100:ffd700&height=4" width="100%">
 
-<!-- 🚀 FEATURED PROJECTS -->
+<!-- 🚀 FEATURED PROJECTS — Auto-updated by GitHub Action -->
 ## 🚀 What I'm Building
 
-<div align="center">
+**🔒 Private Flagships:**
+| | Project | What It Does | Status |
+|:---:|:---|:---|:---:|
+| 🧠 | **Aria-MemoryCore** | AI companion with memory, personality, and the audacity to disagree with me | ![Active](https://img.shields.io/badge/-%E2%9C%A8%20ACTIVE-ff0080?style=flat-square&labelColor=0d1117) |
+| 🎨 | **ChromaMe AI** | Personal color analysis built for Malaysian women | ![Building](https://img.shields.io/badge/-%F0%9F%94%A8%20BUILDING-ff4500?style=flat-square&labelColor=0d1117) |
 
-| 🔥 Flagship | What It Does | Status |
-|:---:|:---|:---:|
-| 🧠 **Aria-MemoryCore** *(private)* | AI companion with memory, personality, and the audacity to disagree with me | ![Active](https://img.shields.io/badge/-%E2%9C%A8%20ACTIVE-ff0080?style=flat-square&labelColor=0d1117) |
-| 🎨 **ChromaMe AI** | Personal color analysis built for Malaysian women — see yourself in your colors | ![Building](https://img.shields.io/badge/-%F0%9F%94%A8%20BUILDING-ff4500?style=flat-square&labelColor=0d1117) |
-| 🌱 **More ideas brewing...** | Always got something cooking in the lab | ![Soon](https://img.shields.io/badge/-%F0%9F%92%A1%20SOON-ffd700?style=flat-square&labelColor=0d1117) |
+**🌐 Public Repos** *(auto-updated every 6 hours):*
+<!--START_SECTION:projects-->
+| | Project | Description | Lang | Stars | Updated |
+|:---:|:---|:---|:---:|:---:|:---:|
+| 🌱 | *No public repos yet* | Building in private — stay tuned | — | — | — |
+<!--END_SECTION:projects-->
 
-</div>
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🔥 No recent activity yet — check back soon!
+<!--END_SECTION:activity-->
 
 <!-- 🌈 ANIMATED RAINBOW DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
