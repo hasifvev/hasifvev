@@ -1,18 +1,18 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=200&section=header&text=Hasif&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26%20Creative%20Technologist&descAlignY=56&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Hasif&amp;fontSize=52&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%26%20Creative%20Technologist&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+AI+that+feels+human+%F0%9F%A4%96;Creative+Technologist+from+Malaysia+%F0%9F%87%B2%F0%9F%87%BE;Crafting+intelligent+systems+%F0%9F%A7%A0;Where+code+meets+creativity+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI+that+feels+human+%F0%9F%A4%96;Creative+Technologist+from+Malaysia+%F0%9F%87%B2%F0%9F%87%BE;Crafting+intelligent+systems+%F0%9F%A7%A0;Where+code+meets+creativity+%F0%9F%8E%A8" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasifvev&label=Profile%20Views&color=7c3aed&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=hasifvev&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/hasifvev?label=Followers&style=flat-square&color=a855f7" />
+  <img src="https://img.shields.io/github/followers/hasifvev?label=Followers&amp;style=flat-square&amp;color=a855f7" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Creative%20Tech-7c3aed?style=flat-square" />
   &nbsp;
@@ -94,15 +94,15 @@ I build systems where intelligence meets creativity. From AI companions with gen
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasifvev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasifvev&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a855f7&amp;icon_color=a855f7&amp;text_color=ffffff&amp;count_private=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifvev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifvev&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a855f7&amp;text_color=ffffff&amp;langs_count=8" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifvev&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a855f7&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifvev&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0d1117&amp;stroke=a855f7&amp;ring=7c3aed&amp;fire=a855f7&amp;currStreakLabel=a855f7" width="60%" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ I build systems where intelligence meets creativity. From AI companions with gen
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifvev&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifvev&amp;bg_color=0d1117&amp;color=a855f7&amp;line=7c3aed&amp;point=a855f7&amp;area=true&amp;hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@ I build systems where intelligence meets creativity. From AI companions with gen
 
 <p align="center">
   <a href="https://github.com/hasifvev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
@@ -133,5 +133,5 @@ I build systems where intelligence meets creativity. From AI companions with gen
 
 <!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
 </div>
