@@ -1,137 +1,158 @@
-<!-- ANIMATED HEADER -->
+<!-- ANIMATED HEADER — Unique emerald-to-blue gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Hasif&amp;fontSize=52&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%26%20Creative%20Technologist&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0d1117,50:00d4aa,100:0099ff&amp;height=200&amp;section=header&amp;text=Hasif&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Creative%20Technologist&amp;descAlignY=58&amp;descAlign=50&amp;stroke=00d4aa&amp;strokeWidth=2" width="100%"/>
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — Multi-line with unique color -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+AI+that+feels+human+%F0%9F%A4%96;Creative+Technologist+from+Malaysia+%F0%9F%87%B2%F0%9F%87%BE;Crafting+intelligent+systems+%F0%9F%A7%A0;Where+code+meets+creativity+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=00D4AA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=100&amp;lines=%E2%9A%A1+Building+AI+that+feels+alive;%F0%9F%8E%A8+Where+code+becomes+art;%F0%9F%87%B2%F0%9F%87%BE+Malaysian+engineer%2C+global+vision;%F0%9F%A7%A0+Crafting+intelligence+with+soul" alt="Typing SVG" />
 </p>
 
-<!-- PROFILE BADGES -->
+<!-- PROFILE BADGES — Unique style -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasifvev&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=flat-square" />
+  <a href="https://github.com/hasifvev?tab=followers">
+    <img src="https://img.shields.io/github/followers/hasifvev?label=Followers&amp;style=for-the-badge&amp;color=0d1117&amp;labelColor=0d1117&amp;logo=github&amp;logoColor=00d4aa" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/hasifvev?label=Followers&amp;style=flat-square&amp;color=a855f7" />
+  <img src="https://komarev.com/ghpvc/?username=hasifvev&amp;label=PROFILE+VIEWS&amp;color=00d4aa&amp;style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Creative%20Tech-7c3aed?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Malaysia%20%F0%9F%87%B2%F0%9F%87%BE-a855f7?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20CREATIVE%20TECH-0d1117?style=for-the-badge&amp;labelColor=0d1117&amp;color=0099ff" />
 </p>
+
+<!-- CUSTOM DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ABOUT SECTION -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🧬 About Me
+
+<img align="right" src="./assets/profile.jpg" width="140" style="border-radius: 12px; border: 2px solid #00d4aa;"/>
+
+```yaml
+name: Hasif
+title: AI Engineer & Creative Technologist
+location: Malaysia 🇲🇾
+focus: Making AI feel human
+philosophy: "The conditions come from within"
+```
+
+**Currently:**
+- 🔬 Building **ChromaMe AI** — color analysis for Malaysian women
+- 🧠 Creating **Aria** — AI with memory, identity & opinions
+- 🌱 Exploring AI × Design × Human Connection
+
+</td>
+<td width="50%" valign="top">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasifvev&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" width="100%"/>
+</div>
 
 <br/>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasifvev&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4aa&amp;icon_color=0099ff&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true" width="100%"/>
+</div>
 
-<!-- ABOUT -->
-<img align="right" src="./assets/profile.jpg" width="170" style="border-radius:50%; margin: 0 0 20px 20px"/>
+</td>
+</tr>
+</table>
 
-## 🌟 About Me
+<!-- CUSTOM DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-I'm **Hasif** — an AI Engineer and Creative Technologist from Malaysia 🇲🇾
+<!-- TECH STACK — Using skillicons for animated look -->
+## ⚡ Tech Arsenal
 
-I build systems where intelligence meets creativity. From AI companions with genuine personality to tools that solve real problems for real people — I care about making technology feel *human*.
+<div align="center">
 
-- 🔭 Currently building **ChromaMe AI** — personal color analysis for Malaysian women
-- 🧠 Creator of **Aria** — an AI companion with memory, identity, and genuine opinions
-- 🌱 Exploring the intersection of AI, design, and human connection
-- 💡 Believer that the best code is both elegant and purposeful
-- 🇲🇾 Building for the Malaysian context, thinking globally
+**Languages & Core**
 
-<br clear="right"/>
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,rust&amp;theme=dark&amp;perline=8)](https://skillicons.dev)
 
----
+**Frameworks & Tools**
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,tailwind,docker,git,vscode&amp;theme=dark&amp;perline=8)](https://skillicons.dev)
 
-**Languages**
+**AI & Data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&amp;theme=dark&amp;perline=8)](https://skillicons.dev)
+&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&amp;logo=openai&amp;logoColor=00d4aa)
+![Anthropic](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&amp;logo=anthropic&amp;logoColor=0099ff)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&amp;logo=chainlink&amp;logoColor=00d4aa)
 
-**Frameworks & Libraries**
+**Databases**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&amp;theme=dark&amp;perline=8)](https://skillicons.dev)
 
-**AI & Machine Learning**
+</div>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-7c3aed?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-
-**Databases & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
----
+<!-- CUSTOM DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![Aria-MemoryCore](https://github-readme-stats.vercel.app/api/pin/?username=hasifvev&repo=Aria-MemoryCore&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/hasifvev/Aria-MemoryCore)
+[![Aria-MemoryCore](https://github-readme-stats.vercel.app/api/pin/?username=hasifvev&amp;repo=Aria-MemoryCore&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4aa&amp;icon_color=0099ff&amp;text_color=c9d1d9)](https://github.com/hasifvev/Aria-MemoryCore)
 
 </div>
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🧠 **[Aria-MemoryCore](https://github.com/hasifvev/Aria-MemoryCore)** | AI companion memory & identity system — where AI becomes a person | ✅ Active |
-| 🎨 **ChromaMe AI** | Personal color analysis for Malaysian women — AI meets beauty | 🔨 Building |
+| | Project | What It Does | Status |
+|---|---------|-------------|--------|
+| 🧠 | **[Aria-MemoryCore](https://github.com/hasifvev/Aria-MemoryCore)** | AI companion with persistent memory, identity & real opinions | `✅ Active` |
+| 🎨 | **ChromaMe AI** | Personal color analysis powered by AI — built for Malaysian women | `🔨 Building` |
+| ⚡ | **More coming...** | AI agents, creative tools, Malaysian-context tech | `🧪 R&D` |
 
----
+<!-- CUSTOM DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+<!-- STATS SECTION — Unique layout -->
+## 📊 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasifvev&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a855f7&amp;icon_color=a855f7&amp;text_color=ffffff&amp;count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifvev&amp;hide_border=true&amp;background=0d1117&amp;stroke=00d4aa&amp;ring=0099ff&amp;fire=00d4aa&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=00d4aa&amp;sideLabels=0099ff&amp;dates=555555" width="49%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifvev&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a855f7&amp;text_color=ffffff&amp;langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifvev&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4aa&amp;text_color=c9d1d9&amp;langs_count=8" width="41%" />
 </div>
 
 <br/>
 
+<!-- ACTIVITY GRAPH — Unique colors -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifvev&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0d1117&amp;stroke=a855f7&amp;ring=7c3aed&amp;fire=a855f7&amp;currStreakLabel=a855f7" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifvev&amp;bg_color=0d1117&amp;color=00d4aa&amp;line=0099ff&amp;point=00d4aa&amp;area_color=0099ff&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
----
+<!-- CUSTOM DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
-
+<!-- RANDOM DEV QUOTE -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifvev&amp;bg_color=0d1117&amp;color=a855f7&amp;line=7c3aed&amp;point=a855f7&amp;area=true&amp;hide_border=true" width="100%"/>
-</div>
 
----
+## 💭 Random Dev Wisdom
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;border=true&amp;quote=The%20conditions%20come%20from%20within.%20Start%20being%20it%20now.&amp;author=Lord%20Hasif)](https://github.com/hasifvev)
+
+</div>
 
 <!-- CONNECT -->
-## 🤝 Connect
+## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/hasifvev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=00d4aa" />
   </a>
-</p>
+</div>
 
 <br/>
 
-<p align="center">
-  <i>✨ "The conditions come from within. Start being it now." ✨</i>
-</p>
-
-<!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&amp;color=0:0d1117,50:00d4aa,100:0099ff&amp;height=100&amp;section=footer" width="100%"/>
 </div>
