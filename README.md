@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION — Fun, personal, vibrant -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF6B9D&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=100&amp;lines=%F0%9F%A7%A0+I+build+AI+that+has+a+soul.;%F0%9F%92%9C+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF6B9D&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%A7%A0+I+build+AI+that+has+a+soul.;%F0%9F%92%9C+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
 </p>
 
 <!-- PROFILE BADGES — Vibrant colors -->
