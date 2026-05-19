@@ -1,6 +1,6 @@
-<!-- ANIMATED HEADER — Vibrant multi-color gradient -->
+<!-- ANIMATED HEADER — Vibrant gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b9d,25:ffa500,50:00d4aa,75:0099ff,100:a855f7&amp;height=220&amp;section=header&amp;text=Hasif&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Vibe%20Coder%20%7C%20Lifelong%20Learner%20%7C%20Builder&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b9d,100:0099ff&amp;height=220&amp;section=header&amp;text=Hasif&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Vibe%20Coder%20%E2%9C%A8%20Lifelong%20Learner&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION — Fun, personal, vibrant -->
@@ -176,5 +176,5 @@ daily: Learning something new 📚
 
 <!-- ANIMATED FOOTER — Matching vibrant gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:a855f7,25:0099ff,50:00d4aa,75:ffa500,100:ff6b9d&amp;height=120&amp;section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0099ff,100:ff6b9d&amp;height=120&amp;section=footer" width="100%"/>
 </div>
