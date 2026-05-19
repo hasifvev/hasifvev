@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER — Vibrant gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b9d,100:0099ff&amp;height=220&amp;section=header&amp;text=Hasif&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Vibe%20Coder%20%E2%9C%A8%20Lifelong%20Learner&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff6b9d,100:0099ff&amp;height=220&amp;section=header&amp;text=Hasif&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=I%20build%20AI%20that%20has%20a%20soul&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION — Fun, personal, vibrant -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF6B9D&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=100&amp;lines=%F0%9F%9A%80+Vibe+coding+my+way+through+life;%F0%9F%8C%B1+Learning+something+new+every+single+day;%F0%9F%87%B2%F0%9F%87%BE+Malaysian+builder%2C+global+dreamer;%E2%9C%A8+Turning+ideas+into+reality+one+project+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF6B9D&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=100&amp;lines=%F0%9F%A7%A0+I+build+AI+that+has+a+soul.;%F0%9F%92%9C+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
 </p>
 
 <!-- PROFILE BADGES — Vibrant colors -->
@@ -35,10 +35,10 @@
 
 ```yaml
 name: Hasif
-vibe: Creative Coder & Eternal Learner
+vibe: AI builder with a soul
 location: Malaysia 🇲🇾
 superpower: Turning curiosity into code
-motto: "Learn it. Build it. Ship it."
+motto: "The conditions come from within"
 daily: Learning something new 📚
 ```
 
