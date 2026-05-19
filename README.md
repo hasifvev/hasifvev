@@ -24,7 +24,7 @@
 ---
 
 <!-- ABOUT -->
-<img align="right" src="https://github.com/hasifvev.png" width="170" style="border-radius:50%; margin: 0 0 20px 20px"/>
+<img align="right" src="./assets/profile.jpg" width="170" style="border-radius:50%; margin: 0 0 20px 20px"/>
 
 ## 🌟 About Me
 
