@@ -15,22 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF5E00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%94%A5+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%E2%9A%A1+Always+running+on+enthusiast+mode.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
 </p>
 
-<!-- 🧬 CODE-BLOCK MANIFESTO — Signature move -->
-<div align="center">
-
-```python
-def hasif():
-    while alive:
-        learn(curiously)
-        build(fearlessly)
-        ship(honestly)
-        if failed:
-            learn_more()
-        burn_brighter()
-```
-
-</div>
-
 <!-- 🔥 PROFILE BADGES — On-fire enthusiast palette -->
 <p align="center">
   <a href="https://github.com/hasifvev?tab=followers">
@@ -56,7 +40,7 @@ def hasif():
 
 ## 🧬 Who Am I?
 
-<div align="right">
+<div align="left">
   <img src="https://img.shields.io/badge/%F0%9F%94%A5_RIGHT_NOW-BUILDING_ARIA-FF5E00?style=for-the-badge&labelColor=0d1117" alt="Right now"/><br/>
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0_FOCUS-AI_COMPANIONS-D00000?style=for-the-badge&labelColor=0d1117" alt="Focus"/><br/>
   <img src="https://img.shields.io/badge/%F0%9F%93%9A_LEARNING-AGENTIC_PATTERNS-FFC300?style=for-the-badge&labelColor=0d1117" alt="Learning"/><br/>
