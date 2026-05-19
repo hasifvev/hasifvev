@@ -136,11 +136,11 @@ daily: Learning something new 📚
 
 <div align="center">
   <a href="https://github.com/hasifvev">
-    <img src="https://github-readme-stats.vercel.app/api?username=hasifvev&amp;show_icons=true&amp;hide_border=true&amp;theme=radical&amp;bg_color=0d1117&amp;title_color=FF5E00&amp;icon_color=FFC300&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;cache_seconds=1800" height="170" alt="Hasif's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hasifvev&amp;show_icons=true&amp;hide_border=true&amp;theme=radical&amp;bg_color=0d1117&amp;title_color=FF5E00&amp;icon_color=FFC300&amp;text_color=c9d1d9&amp;include_all_commits=true" height="170" alt="Hasif's GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/hasifvev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifvev&amp;layout=compact&amp;hide_border=true&amp;theme=radical&amp;bg_color=0d1117&amp;title_color=FF5E00&amp;text_color=c9d1d9&amp;langs_count=8&amp;cache_seconds=1800" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifvev&amp;layout=compact&amp;hide_border=true&amp;theme=radical&amp;bg_color=0d1117&amp;title_color=FF5E00&amp;text_color=c9d1d9&amp;langs_count=8" height="170" alt="Top Languages" />
   </a>
 </div>
 
