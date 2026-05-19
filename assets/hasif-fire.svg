@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" preserveAspectRatio="xMidYMid meet">
+  <!-- ============================================ -->
+  <!-- HASIF — On-Fire Animated Hero SVG            -->
+  <!-- HADES-style flame text with glow + flicker   -->
+  <!-- ============================================ -->
+
+  <defs>
+    <!-- Fire gradient that animates its stops to simulate flickering -->
+    <linearGradient id="fireGradient" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#D00000">
+        <animate attributeName="stop-color"
+          values="#D00000;#FF1500;#D00000"
+          dur="1.2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="40%" stop-color="#FF5E00">
+        <animate attributeName="stop-color"
+          values="#FF5E00;#FF8C00;#FF5E00"
+          dur="1.2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="75%" stop-color="#FFC300">
+        <animate attributeName="stop-color"
+          values="#FFC300;#FFEE00;#FFC300"
+          dur="1.2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFEFA0">
+        <animate attributeName="stop-color"
+          values="#FFEFA0;#FFFFFF;#FFEFA0"
+          dur="1.2s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Inner glow gradient for the halo behind the text -->
+    <radialGradient id="haloGradient" cx="50%" cy="55%" r="55%">
+      <stop offset="0%" stop-color="#FF5E00" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#D00000" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Flame glow filter -->
+    <filter id="fireGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feGaussianBlur stdDeviation="14" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft flicker filter for ember particles -->
+    <filter id="emberGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+
+    <!-- Wavy turbulent flame path (used by 3 flame plumes above letters) -->
+    <symbol id="flamePlume" overflow="visible">
+      <path d="M 0 0
+               C -8 -20, -14 -35, -6 -55
+               C -2 -45, 4 -50, 6 -38
+               C 12 -52, 18 -42, 14 -25
+               C 22 -38, 26 -22, 18 -8
+               C 12 -2, 6 -4, 0 0 Z"
+        fill="url(#fireGradient)" filter="url(#fireGlow)" opacity="0.85">
+        <animate attributeName="opacity"
+          values="0.85;0.55;0.95;0.7;0.85"
+          dur="0.8s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="scale"
+          values="1 1; 1.05 1.15; 0.95 0.92; 1.02 1.08; 1 1"
+          dur="0.8s" repeatCount="indefinite"
+          additive="sum"/>
+      </path>
+    </symbol>
+  </defs>
+
+  <!-- Dark background halo for fire to glow against -->
+  <rect width="900" height="300" fill="#0d1117"/>
+  <ellipse cx="450" cy="160" rx="430" ry="130" fill="url(#haloGradient)"/>
+
+  <!-- Embers / sparks rising in the background -->
+  <g filter="url(#emberGlow)" fill="#FFC300">
+    <circle cx="120" cy="240" r="2.5">
+      <animate attributeName="cy" values="240;40" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="220" cy="260" r="2">
+      <animate attributeName="cy" values="260;30" dur="4s" repeatCount="indefinite" begin="0.6s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite" begin="0.6s"/>
+    </circle>
+    <circle cx="380" cy="250" r="3">
+      <animate attributeName="cy" values="250;20" dur="3.6s" repeatCount="indefinite" begin="1.1s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.6s" repeatCount="indefinite" begin="1.1s"/>
+    </circle>
+    <circle cx="540" cy="245" r="2">
+      <animate attributeName="cy" values="245;35" dur="3.4s" repeatCount="indefinite" begin="0.3s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" repeatCount="indefinite" begin="0.3s"/>
+    </circle>
+    <circle cx="660" cy="255" r="2.5">
+      <animate attributeName="cy" values="255;25" dur="3.8s" repeatCount="indefinite" begin="1.4s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.8s" repeatCount="indefinite" begin="1.4s"/>
+    </circle>
+    <circle cx="780" cy="240" r="2">
+      <animate attributeName="cy" values="240;40" dur="4.2s" repeatCount="indefinite" begin="0.9s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4.2s" repeatCount="indefinite" begin="0.9s"/>
+    </circle>
+  </g>
+
+  <!-- Flame plumes rising from each letter top -->
+  <g>
+    <use href="#flamePlume" x="178" y="80"/>
+    <use href="#flamePlume" x="320" y="80" transform="translate(320 80) scale(1.1) translate(-320 -80)"/>
+    <use href="#flamePlume" x="460" y="80" transform="translate(460 80) scale(0.95) translate(-460 -80)"/>
+    <use href="#flamePlume" x="595" y="80" transform="translate(595 80) scale(1.05) translate(-595 -80)"/>
+    <use href="#flamePlume" x="722" y="80" transform="translate(722 80) scale(1.15) translate(-722 -80)"/>
+  </g>
+
+  <!-- Underglow shadow beneath text -->
+  <ellipse cx="450" cy="240" rx="320" ry="20" fill="#FF5E00" opacity="0.35" filter="url(#fireGlow)">
+    <animate attributeName="opacity"
+      values="0.35;0.55;0.3;0.5;0.35"
+      dur="1.4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- THE NAME — fire-gradient filled, glowing -->
+  <text x="450" y="210" text-anchor="middle"
+        font-family="'Impact', 'Arial Black', sans-serif"
+        font-size="160" font-weight="900"
+        letter-spacing="6"
+        fill="url(#fireGradient)"
+        stroke="#D00000" stroke-width="2"
+        filter="url(#fireGlow)">
+    HASIF
+    <animate attributeName="font-size"
+      values="160;162;158;161;160"
+      dur="1.6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtle inner highlight layer for that "molten core" look -->
+  <text x="450" y="210" text-anchor="middle"
+        font-family="'Impact', 'Arial Black', sans-serif"
+        font-size="160" font-weight="900"
+        letter-spacing="6"
+        fill="#FFEE00" opacity="0.35">
+    HASIF
+    <animate attributeName="opacity"
+      values="0.35;0.6;0.25;0.5;0.35"
+      dur="1.2s" repeatCount="indefinite"/>
+  </text>
+</svg>

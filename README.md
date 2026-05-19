@@ -1,11 +1,18 @@
-<!-- 🔥 ON-FIRE HEADER — Fire gradient with enthusiast vibe -->
+<!-- 🔥 ON-FIRE HEADER — Custom animated SVG with HADES-style flame text -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff0080,33:ff4500,66:ff8c00,100:ffd700&amp;height=260&amp;section=header&amp;text=%F0%9F%94%A5%20HASIF%20%F0%9F%94%A5&amp;fontSize=80&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=I%20build%20AI%20that%20has%20a%20soul%20%E2%9C%A8&amp;descAlignY=60&amp;descAlign=50&amp;descSize=22" width="100%"/>
+  <img src="https://raw.githubusercontent.com/hasifvev/hasifvev/master/assets/hasif-fire.svg" alt="HASIF — on fire" width="100%"/>
+</div>
+
+<!-- 💬 MOTTO — Sleek blockquote -->
+<div align="center">
+
+> ✨ *I build AI that has a soul.*
+
 </div>
 
 <!-- TYPING ANIMATION — Fun, personal, vibrant -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF6B9D&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%A7%A0+I+build+AI+that+has+a+soul.;%F0%9F%92%9C+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF5E00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%94%A5+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%E2%9A%A1+Always+running+on+enthusiast+mode.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
 </p>
 
 <!-- 🔥 PROFILE BADGES — On-fire enthusiast palette -->
@@ -65,7 +72,7 @@ daily: Learning something new 📚
 ## 🔥 Current Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifvev&amp;hide_border=true&amp;background=0d1117&amp;stroke=ff6b9d&amp;ring=ffa500&amp;fire=ff6b9d&amp;currStreakNum=00d4aa&amp;sideNums=0099ff&amp;currStreakLabel=ff6b9d&amp;sideLabels=ffa500&amp;dates=555555" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasifvev&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;stroke=FF5E00&amp;ring=FFC300&amp;fire=FF5E00&amp;currStreakNum=FFC300&amp;sideNums=FFC300&amp;currStreakLabel=FF5E00&amp;sideLabels=D00000&amp;dates=c9d1d9" width="100%" alt="Coding Streak"/>
 </div>
 
 </td>
@@ -129,11 +136,11 @@ daily: Learning something new 📚
 
 <div align="center">
   <a href="https://github.com/hasifvev">
-    <img src="https://github-readme-stats.vercel.app/api?username=hasifvev&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff4500&amp;icon_color=ffd700&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;cache_seconds=1800" height="170" alt="Hasif's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hasifvev&amp;show_icons=true&amp;hide_border=true&amp;theme=radical&amp;bg_color=0d1117&amp;title_color=FF5E00&amp;icon_color=FFC300&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;cache_seconds=1800" height="170" alt="Hasif's GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/hasifvev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifvev&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff0080&amp;text_color=c9d1d9&amp;langs_count=8&amp;cache_seconds=1800" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasifvev&amp;layout=compact&amp;hide_border=true&amp;theme=radical&amp;bg_color=0d1117&amp;title_color=FF5E00&amp;text_color=c9d1d9&amp;langs_count=8&amp;cache_seconds=1800" height="170" alt="Top Languages" />
   </a>
 </div>
 
@@ -141,7 +148,7 @@ daily: Learning something new 📚
 
 <!-- 📈 ACTIVITY GRAPH — Fire colors -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifvev&amp;bg_color=0d1117&amp;color=ff0080&amp;line=ffd700&amp;point=ff4500&amp;area_color=ff8c00&amp;area=true&amp;hide_border=true&amp;custom_title=%F0%9F%94%A5%20My%20Coding%20Fire" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasifvev&amp;theme=redical&amp;custom_title=%F0%9F%94%A5%20My%20Coding%20Fire&amp;bg_color=0d1117&amp;color=FF5E00&amp;line=FFC300&amp;point=D00000&amp;area_color=FF5E00&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
