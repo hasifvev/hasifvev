@@ -12,7 +12,7 @@
 
 <!-- TYPING ANIMATION — Fun, personal, vibrant -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF5E00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%94%A5+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%F0%9F%8E%93+EduForge+AI+%E2%80%94+The+AI+Teaching+OS.;%E2%9A%A1+Always+running+on+enthusiast+mode.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF5E00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%94%A5+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%F0%9F%92%9C+Building+Tenang+%E2%80%94+mental+health+for+Malaysia.;%F0%9F%8E%93+EduForge+AI+%E2%80%94+The+AI+Teaching+OS.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
 </p>
 
 <!-- 🔥 PROFILE BADGES — On-fire enthusiast palette -->
@@ -23,7 +23,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/MODE-%F0%9F%94%A5%20ON%20FIRE-ff0080?style=for-the-badge&amp;labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/VIBE-%E2%9A%A1%20ENTHUSIAST-ffa500?style=for-the-badge&amp;labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VIBE-%F0%9F%8C%99_NIGHT_OWL-6d28d9?style=for-the-badge&amp;labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-%F0%9F%9A%80%20BUILDING-00d4aa?style=for-the-badge&amp;labelColor=0d1117" />
   &nbsp;
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%94%A5_RIGHT_NOW-BUILDING_ARIA-FF5E00?style=for-the-badge&labelColor=0d1117" alt="Right now"/><br/>
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0_FOCUS-AI_COMPANIONS-D00000?style=for-the-badge&labelColor=0d1117" alt="Focus"/><br/>
   <img src="https://img.shields.io/badge/%F0%9F%93%9A_LEARNING-AGENTIC_PATTERNS-FFC300?style=for-the-badge&labelColor=0d1117" alt="Learning"/><br/>
-  <img src="https://img.shields.io/badge/%F0%9F%8C%99_MOOD-LATE_NIGHT_FLOW-A855F7?style=for-the-badge&labelColor=0d1117" alt="Mood"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%99_MOOD-LATE_NIGHT_FLOW-a855f7?style=for-the-badge&labelColor=0d1117" alt="Mood"/>
 </div>
 
 ```yaml
@@ -65,6 +65,7 @@ daily: Learning something new 📚
 - 🎓 Building **EduForge AI** — 5-agent AI Teaching Operating System
 - 🧠 Teaching **Aria** to disagree with me (and win)
 - 🎨 Working on **ChromaMe AI** — color analysis for Malaysian women
+- 💜 Launched **Tenang** — anonymous mental health check-in for Malaysia
 - 🚀 Shipping things, breaking things, growing
 
 **📚 Currently Learning:**
@@ -149,12 +150,15 @@ daily: Learning something new 📚
 |:---:|:---|:---|:---:|
 | 🧠 | **Aria-MemoryCore** | AI companion with memory, personality, and the audacity to disagree with me | ![Active](https://img.shields.io/badge/-%E2%9C%A8%20ACTIVE-ff0080?style=flat-square&labelColor=0d1117) |
 | 🎨 | **ChromaMe AI** | Personal color analysis built for Malaysian women | ![Building](https://img.shields.io/badge/-%F0%9F%94%A8%20BUILDING-ff4500?style=flat-square&labelColor=0d1117) |
+| 💜 | **Tenang** | Anonymous mental health check-in for Malaysia — offline-first, no PII | ![Private](https://img.shields.io/badge/-%F0%9F%94%92%20PRIVATE-7c3aed?style=flat-square&labelColor=0d1117) |
+| 🌿 | **Rootine** | Habit tracker with gamified tree growth system | ![Private](https://img.shields.io/badge/-%F0%9F%94%92%20PRIVATE-7c3aed?style=flat-square&labelColor=0d1117) |
 
-**🌐 Public Repos** *(auto-updated every 6 hours):*
+**🌐 Public Repos:**
 <!--START_SECTION:projects-->
 | | Project | Description | Lang | Stars | Updated |
 |:---:|:---|:---|:---:|:---:|:---:|
 | 🎓 | **[EduForge AI](https://github.com/hasifvev/EduForge-AI)** | AI Teaching Operating System — 5-agent pipeline, global curriculum support | JavaScript | ⭐ | Jul 2026 |
+
 <!--END_SECTION:projects-->
 
 ## ⚡ Recent Activity
@@ -238,9 +242,10 @@ Most AI is trained on Western contexts. ChromaMe AI exists because color analysi
 
 ### 📐 The Stack I Reach For
 
+- **Mobile**: Flutter / Dart (Android + iOS + Web)
 - **Backend**: Python (FastAPI), TypeScript (Node)
 - **Frontend**: React, Next.js, Tailwind, shadcn/ui
-- **Data**: Supabase, Postgres, Vector DBs (Chroma, Qdrant)
+- **Data**: Supabase, Postgres, Drift (SQLite), Vector DBs (Chroma, Qdrant)
 - **AI**: Claude (Anthropic), OpenAI, Gemini, local models via Ollama
 - **Infra**: Vercel, Cloudflare, Docker
 
