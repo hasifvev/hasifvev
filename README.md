@@ -12,7 +12,7 @@
 
 <!-- TYPING ANIMATION — Fun, personal, vibrant -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF5E00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%94%A5+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%E2%9A%A1+Always+running+on+enthusiast+mode.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=FF5E00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=160&amp;lines=%F0%9F%94%A5+Teaching+Aria+to+disagree+with+me.;%F0%9F%8E%A8+Building+ChromaMe+AI+for+Malaysian+women.;%F0%9F%8E%93+EduForge+AI+%E2%80%94+The+AI+Teaching+OS.;%E2%9A%A1+Always+running+on+enthusiast+mode.;%E2%9C%A8+The+conditions+come+from+within." alt="Typing SVG" />
 </p>
 
 <!-- 🔥 PROFILE BADGES — On-fire enthusiast palette -->
@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/STATUS-%F0%9F%9A%80%20BUILDING-00d4aa?style=for-the-badge&amp;labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/FROM-%F0%9F%87%B2%F0%9F%87%BE%20MALAYSIA-a855f7?style=for-the-badge&amp;labelColor=0d1117" />
+  &nbsp;
+  <a href="https://openai.devpost.com">
+    <img src="https://img.shields.io/badge/OpenAI%20Build%20Week-%F0%9F%8F%86%20COMPETITOR-412991?style=for-the-badge&amp;labelColor=0d1117" />
+  </a>
 </p>
 
 <!-- 🌈 ANIMATED RAINBOW DIVIDER -->
@@ -57,10 +61,10 @@ daily: Learning something new 📚
 ```
 
 **What I'm Up To:**
-- 🎯 Vibe coding personal projects that excite me
-- 🧠 Building **Aria** — my AI companion experiment
-- 🎨 Working on **ChromaMe AI** — color analysis app
-- 📚 Learning new tech every single day
+- 🏆 Competing in **OpenAI Build Week 2026** with EduForge AI
+- 🎓 Building **EduForge AI** — 5-agent AI Teaching Operating System
+- 🧠 Teaching **Aria** to disagree with me (and win)
+- 🎨 Working on **ChromaMe AI** — color analysis for Malaysian women
 - 🚀 Shipping things, breaking things, growing
 
 **📚 Currently Learning:**
@@ -135,6 +139,11 @@ daily: Learning something new 📚
 <!-- 🚀 FEATURED PROJECTS — Auto-updated by GitHub Action -->
 ## 🚀 What I'm Building
 
+**🏆 Hackathon Entry:**
+| | Project | What It Does | Event | Status |
+|:---:|:---|:---|:---:|:---:|
+| 🎓 | **[EduForge AI](https://github.com/hasifvev/EduForge-AI)** | 5-agent AI Teaching OS — any teacher, any country, any curriculum | OpenAI Build Week 2026 | ![Submitted](https://img.shields.io/badge/-%F0%9F%9A%80%20SUBMITTED-412991?style=flat-square&labelColor=0d1117) |
+
 **🔒 Private Flagships:**
 | | Project | What It Does | Status |
 |:---:|:---|:---|:---:|
@@ -145,7 +154,7 @@ daily: Learning something new 📚
 <!--START_SECTION:projects-->
 | | Project | Description | Lang | Stars | Updated |
 |:---:|:---|:---|:---:|:---:|:---:|
-| 🌱 | *No public repos yet* | Building in private — stay tuned | — | — | — |
+| 🎓 | **[EduForge AI](https://github.com/hasifvev/EduForge-AI)** | AI Teaching Operating System — 5-agent pipeline, global curriculum support | JavaScript | ⭐ | Jul 2026 |
 <!--END_SECTION:projects-->
 
 ## ⚡ Recent Activity
