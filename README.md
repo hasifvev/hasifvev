@@ -49,7 +49,7 @@ I build software that **has opinions**. Not tools that just execute — systems 
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **[EduForge AI](https://github.com/hasifvev/EduForge-AI)** | AI teaching workspace with a source-registered global standards platform, reviewed outcome matching, and teacher-safe coverage boundaries | Node.js · React · Groq | ![Live](https://img.shields.io/badge/Live-412991?style=flat-square) |
+| **[EduForge AI](https://github.com/hasifvev/EduForge-AI)** | AI teaching workspace with source-grounded Material Intelligence, global standards matching, and teacher-safe curriculum boundaries | Node.js · React · Groq | ![Live](https://img.shields.io/badge/Live-412991?style=flat-square) |
 
 ### 🔨 In Progress
 
