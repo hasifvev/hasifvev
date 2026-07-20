@@ -49,7 +49,7 @@ I build software that **has opinions**. Not tools that just execute — systems 
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **[IlmuEducator](https://github.com/hasifvev/IlmuEducator)** | Build Week-ready IlmuEducator teaching workspace with browser-local migration, Codex and GPT-5.6 evidence, Material Intelligence, and teacher-safe curriculum boundaries | Node.js · React · Groq | ![Live](https://img.shields.io/badge/Live-412991?style=flat-square) |
+| **[IlmuEducator](https://github.com/hasifvev/IlmuEducator)** | Build Week-ready IlmuEducator teaching workspace with documented browser-local migration, Codex and GPT-5.6 evidence, Material Intelligence, and teacher-safe curriculum boundaries | Node.js · React · Groq | ![Live](https://img.shields.io/badge/Live-412991?style=flat-square) |
 
 ### 🔨 In Progress
 
