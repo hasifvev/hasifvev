@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=FF5E00&center=true&vCenter=true&width=650&height=50&lines=Building+AI+that+has+a+soul.;EduForge+AI+%E2%80%94+OpenAI+Build+Week+2026.;The+conditions+come+from+within." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=FF5E00&center=true&vCenter=true&width=650&height=50&lines=Building+AI+that+has+a+soul.;EduHelp+%E2%80%94+OpenAI+Build+Week+2026.;The+conditions+come+from+within." alt="Typing SVG" />
 </p>
 
 <!-- BADGES -->
@@ -49,7 +49,7 @@ I build software that **has opinions**. Not tools that just execute — systems 
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **[EduForge AI](https://github.com/hasifvev/EduForge-AI)** | Build Week-ready AI teaching workspace with streamlined documentation, Codex and GPT-5.6 evidence, Material Intelligence, and teacher-safe curriculum boundaries | Node.js · React · Groq | ![Live](https://img.shields.io/badge/Live-412991?style=flat-square) |
+| **[EduHelp](https://github.com/hasifvev/EduHelp)** | Build Week-ready AI teaching workspace with streamlined documentation, Codex and GPT-5.6 evidence, Material Intelligence, and teacher-safe curriculum boundaries | Node.js · React · Groq | ![Live](https://img.shields.io/badge/Live-412991?style=flat-square) |
 
 ### 🔨 In Progress
 
@@ -102,7 +102,7 @@ I build software that **has opinions**. Not tools that just execute — systems 
 
 ## 🌏 Why I Build This Way
 
-Most AI tools are built for Western contexts, Western skin tones, Western school systems. I'm building for Malaysia and Southeast Asia — not as an afterthought, but as the *foundation*. EduForge AI works for Malaysian KSSR/KSSM curricula just as naturally as US Common Core. ChromaMe was built because no color tool understood my skin tone.
+Most AI tools are built for Western contexts, Western skin tones, Western school systems. I'm building for Malaysia and Southeast Asia — not as an afterthought, but as the *foundation*. EduHelp works for Malaysian KSSR/KSSM curricula just as naturally as US Common Core. ChromaMe was built because no color tool understood my skin tone.
 
 Localization isn't a feature. It's the architecture.
 
